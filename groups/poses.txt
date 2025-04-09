@@ -1,2 +1,17 @@
 standing
 sitting
+arms up
+position_view
+standing on one leg
+leg up
+standing split
+leaning forward
+hand on own hip
+open hands
+open hand
+clenched hand
+head tilt
+portrait
+hands up
+closed mouth
+all fours
